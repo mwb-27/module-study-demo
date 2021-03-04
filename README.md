@@ -1,5 +1,5 @@
 # hackernews-async-ts
-
+前端模块化学习demo
 [Hacker News](https://news.ycombinator.com/) showcase using typescript && egg
 
 ## QuickStart
@@ -31,3 +31,4 @@ $ npm start
 
 - Node.js 8.x
 - Typescript 2.8+
+
