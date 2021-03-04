@@ -32,3 +32,15 @@ $ npm start
 - Node.js 8.x
 - Typescript 2.8+
 
+## docker使用
+
+### 镜像生成
+```bash
+$ docker image build -t module-study .
+```
+
+### 运行docker容器
+```bash
+$ docker container run -p 7001:7001 module-study
+$ open http://localhost:7001/
+```
